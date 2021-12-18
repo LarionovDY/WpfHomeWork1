@@ -17,6 +17,7 @@
             <Border.Background>
                 <SolidColorBrush Color="#FF3A3232"/>
             </Border.Background>
+            <TextBlock TextWrapping="Wrap" FontSize="36" FontFamily="Arial"><Run Text="&#x9;"/><Run Text="2"/><Run Text="+"/><Run Text="2=5"/></TextBlock>
         </Border>
         <Button Content="+/-" HorizontalAlignment="Left" Margin="20,405,0,0" VerticalAlignment="Top" Width="65" Height="65" BorderThickness="3" RenderTransformOrigin="0.5,0.5" Click="Button_Click" FontSize="36" FontFamily="Arial" Opacity="0.7" Cursor="Hand">
             <Button.Background>
